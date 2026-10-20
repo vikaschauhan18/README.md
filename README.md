@@ -1,4 +1,4 @@
-# 💫 About Me:
+``# 💫 About Me:
 👨‍💻 I'm currently working on<br>- Full Stack Web Development projects<br>- Java & Spring Boot projects<br><br>🤝 I'm looking to collaborate on<br>- Web Development projects<br><br>🌱 I'm currently learning<br>- Java DSA<br>- Spring Boot<br>- MERN Stack<br>- SQL & Database Management<br><br>💬 Ask me about<br>- Java<br>- DSA<br>- Web Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy building real-world projects and learning new technologies.
 
 
@@ -25,3 +25,19 @@
 [![](https://komarev.com/ghpvc/?username=vikaschauhan18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+
+## 🚀 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikaschauhan18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=vikaschauhan18&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaschauhan18&theme=tokyo-night" alt="Contribution Graph" />
+
+</div>
+
