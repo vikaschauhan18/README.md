@@ -1,0 +1,48 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="370" viewBox="0 0 490 370">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .panel { fill: #161b22; stroke: #30363d; stroke-width: 1.5; }
+      .title { fill: #58a6ff; font: bold 18px monospace; }
+      .key { fill: #8b949e; font: 13px monospace; }
+      .val { fill: #39d353; font: 13px monospace; }
+      .small { fill: #c9d1d9; font: 12px monospace; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="490" height="370" rx="12"/>
+  <rect class="panel" x="8" y="8" width="474" height="354" rx="10"/>
+
+  <circle cx="27" cy="28" r="5" fill="#ff5f56"/>
+  <circle cx="44" cy="28" r="5" fill="#ffbd2e"/>
+  <circle cx="61" cy="28" r="5" fill="#27c93f"/>
+  <text x="80" y="33" class="small">vikas@github: ~</text>
+
+  <text x="25" y="70" class="title">vikaschauhan18</text>
+  <text x="25" y="94" class="small">------------------------------</text>
+
+  <text x="25" y="124" class="key">ROLE</text>
+  <text x="145" y="124" class="val">Java Developer</text>
+
+  <text x="25" y="154" class="key">STACK</text>
+  <text x="145" y="154" class="val">Java / MERN</text>
+
+  <text x="25" y="184" class="key">LEARNING</text>
+  <text x="145" y="184" class="val">Spring Boot</text>
+
+  <text x="25" y="214" class="key">INTERESTS</text>
+  <text x="145" y="214" class="val">DSA / Web / AI</text>
+
+  <text x="25" y="244" class="key">PROJECTS</text>
+  <text x="145" y="244" class="val">ERP / Resume AI</text>
+
+  <text x="25" y="274" class="key">PLATFORM</text>
+  <text x="145" y="274" class="val">GitHub</text>
+
+  <text x="25" y="314" class="small">Building projects, learning every day.</text>
+  <text x="25" y="340" class="val">vikas@github:~$ <tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    _
+  </tspan></text>
+</svg>
