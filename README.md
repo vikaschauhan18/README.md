@@ -37,7 +37,12 @@
 
 <img src="https://streak-stats.demolab.com?user=vikaschauhan18&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaschauhan18&theme=tokyo-night" alt="Contribution Graph" />
+
+<img src="./vikaschauhan18-contribution-animation-dark.svg" alt="Animated GitHub Contribution Graph" width="100%" />
+
 
 </div>
+
+
+
 
