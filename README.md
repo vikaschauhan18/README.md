@@ -1,5 +1,5 @@
 ``# 💫 About Me:
-👨‍💻 I'm currently working on<br>- Full Stack Web Development projects<br>- Java & Spring Boot projects<br><br>🤝 I'm looking to collaborate on<br>- Web Development projects<br><br>🌱 I'm currently learning<br>- Java DSA<br>- Spring Boot<br>- MERN Stack<br>- SQL & Database Management<br><br>💬 Ask me about<br>- Java<br>- DSA<br>- Web Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy building real-world projects and learning new technologies.
+👨‍💻 I'm currently working on<br>- Full Stack Web Development projects<br>- Mern Stack projects<br><br>🤝 I'm looking to collaborate on<br>- Web Development projects<br><br>🌱 I'm currently learning<br>- Java DSA<br>- Spring Boot<br>- MERN Stack<br>- SQL & Database Management<br><br>💬 Ask me about<br>- Java<br>- DSA<br>- Web Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy building real-world projects and learning new technologies.
 
 
 ## 🌐 Socials:
