@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="510" viewBox="0 0 740 510">
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="738" height="508" rx="11" fill="none" stroke="#30363d"/>
+<circle cx="18" cy="19" r="4" fill="#ff5f56"/><circle cx="31" cy="19" r="4" fill="#ffbd2e"/><circle cx="44" cy="19" r="4" fill="#27c93f"/>
+<text x="58" y="23" fill="#c9d1d9" font-family="monospace" font-size="11">vikas@github:~/portrait</text>
+<line x1="12" y1="32" x2="728" y2="32" stroke="#30363d"/>
+<defs>
+<clipPath id="row0"><rect x="14" y="41.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.000s" fill="freeze"/></rect></clipPath>
+<clipPath id="row1"><rect x="14" y="48.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.075s" fill="freeze"/></rect></clipPath>
+<clipPath id="row2"><rect x="14" y="56.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.150s" fill="freeze"/></rect></clipPath>
+<clipPath id="row3"><rect x="14" y="64.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.225s" fill="freeze"/></rect></clipPath>
+<clipPath id="row4"><rect x="14" y="72.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.300s" fill="freeze"/></rect></clipPath>
+<clipPath id="row5"><rect x="14" y="80.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.375s" fill="freeze"/></rect></clipPath>
+<clipPath id="row6"><rect x="14" y="87.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.450s" fill="freeze"/></rect></clipPath>
+<clipPath id="row7"><rect x="14" y="95.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.525s" fill="freeze"/></rect></clipPath>
+<clipPath id="row8"><rect x="14" y="103.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.600s" fill="freeze"/></rect></clipPath>
+<clipPath id="row9"><rect x="14" y="111.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.675s" fill="freeze"/></rect></clipPath>
+<clipPath id="row10"><rect x="14" y="119.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.750s" fill="freeze"/></rect></clipPath>
+<clipPath id="row11"><rect x="14" y="126.80000000000001" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.825s" fill="freeze"/></rect></clipPath>
+<clipPath id="row12"><rect x="14" y="134.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.900s" fill="freeze"/></rect></clipPath>
+<clipPath id="row13"><rect x="14" y="142.39999999999998" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="0.975s" fill="freeze"/></rect></clipPath>
+<clipPath id="row14"><rect x="14" y="150.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.050s" fill="freeze"/></rect></clipPath>
+<clipPath id="row15"><rect x="14" y="158.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.125s" fill="freeze"/></rect></clipPath>
+<clipPath id="row16"><rect x="14" y="165.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.200s" fill="freeze"/></rect></clipPath>
+<clipPath id="row17"><rect x="14" y="173.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.275s" fill="freeze"/></rect></clipPath>
+<clipPath id="row18"><rect x="14" y="181.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.350s" fill="freeze"/></rect></clipPath>
+<clipPath id="row19"><rect x="14" y="189.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.425s" fill="freeze"/></rect></clipPath>
+<clipPath id="row20"><rect x="14" y="197.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.500s" fill="freeze"/></rect></clipPath>
+<clipPath id="row21"><rect x="14" y="204.79999999999998" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.575s" fill="freeze"/></rect></clipPath>
+<clipPath id="row22"><rect x="14" y="212.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.650s" fill="freeze"/></rect></clipPath>
+<clipPath id="row23"><rect x="14" y="220.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.725s" fill="freeze"/></rect></clipPath>
+<clipPath id="row24"><rect x="14" y="228.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.800s" fill="freeze"/></rect></clipPath>
+<clipPath id="row25"><rect x="14" y="236.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.875s" fill="freeze"/></rect></clipPath>
+<clipPath id="row26"><rect x="14" y="243.79999999999998" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="1.950s" fill="freeze"/></rect></clipPath>
+<clipPath id="row27"><rect x="14" y="251.60000000000002" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.025s" fill="freeze"/></rect></clipPath>
+<clipPath id="row28"><rect x="14" y="259.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.100s" fill="freeze"/></rect></clipPath>
+<clipPath id="row29"><rect x="14" y="267.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.175s" fill="freeze"/></rect></clipPath>
+<clipPath id="row30"><rect x="14" y="275.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.250s" fill="freeze"/></rect></clipPath>
+<clipPath id="row31"><rect x="14" y="282.79999999999995" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.325s" fill="freeze"/></rect></clipPath>
+<clipPath id="row32"><rect x="14" y="290.6" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.400s" fill="freeze"/></rect></clipPath>
+<clipPath id="row33"><rect x="14" y="298.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.475s" fill="freeze"/></rect></clipPath>
+<clipPath id="row34"><rect x="14" y="306.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.550s" fill="freeze"/></rect></clipPath>
+<clipPath id="row35"><rect x="14" y="314.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.625s" fill="freeze"/></rect></clipPath>
+<clipPath id="row36"><rect x="14" y="321.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.700s" fill="freeze"/></rect></clipPath>
+<clipPath id="row37"><rect x="14" y="329.59999999999997" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.775s" fill="freeze"/></rect></clipPath>
+<clipPath id="row38"><rect x="14" y="337.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.850s" fill="freeze"/></rect></clipPath>
+<clipPath id="row39"><rect x="14" y="345.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="2.925s" fill="freeze"/></rect></clipPath>
+<clipPath id="row40"><rect x="14" y="353.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.000s" fill="freeze"/></rect></clipPath>
+<clipPath id="row41"><rect x="14" y="360.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.075s" fill="freeze"/></rect></clipPath>
+<clipPath id="row42"><rect x="14" y="368.59999999999997" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.150s" fill="freeze"/></rect></clipPath>
+<clipPath id="row43"><rect x="14" y="376.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.225s" fill="freeze"/></rect></clipPath>
+<clipPath id="row44"><rect x="14" y="384.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.300s" fill="freeze"/></rect></clipPath>
+<clipPath id="row45"><rect x="14" y="392.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.375s" fill="freeze"/></rect></clipPath>
+<clipPath id="row46"><rect x="14" y="399.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.450s" fill="freeze"/></rect></clipPath>
+<clipPath id="row47"><rect x="14" y="407.59999999999997" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.525s" fill="freeze"/></rect></clipPath>
+<clipPath id="row48"><rect x="14" y="415.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.600s" fill="freeze"/></rect></clipPath>
+<clipPath id="row49"><rect x="14" y="423.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.675s" fill="freeze"/></rect></clipPath>
+<clipPath id="row50"><rect x="14" y="431.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.750s" fill="freeze"/></rect></clipPath>
+<clipPath id="row51"><rect x="14" y="438.8" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.825s" fill="freeze"/></rect></clipPath>
+<clipPath id="row52"><rect x="14" y="446.59999999999997" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.900s" fill="freeze"/></rect></clipPath>
+<clipPath id="row53"><rect x="14" y="454.4" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="3.975s" fill="freeze"/></rect></clipPath>
+<clipPath id="row54"><rect x="14" y="462.2" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="4.050s" fill="freeze"/></rect></clipPath>
+<clipPath id="row55"><rect x="14" y="470.0" width="0" height="8.8"><animate attributeName="width" from="0" to="712" dur="1.2s" begin="4.125s" fill="freeze"/></rect></clipPath>
+</defs>
+<text x="14" y="48.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row0)">                                                                                        </text>
+<text x="14" y="55.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row1)">                                                                                        </text>
+<text x="14" y="63.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row2)">                                                                                        </text>
+<text x="14" y="71.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row3)">                                                                                        </text>
+<text x="14" y="79.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row4)">                                                                                        </text>
+<text x="14" y="87.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row5)">                                                                                        </text>
+<text x="14" y="94.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row6)">                                   `:-+ccs##c***+-`...                                  </text>
+<text x="14" y="102.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row7)">                               :*#%@@%%%%%%%%%%%%%%%%%%c=-                              </text>
+<text x="14" y="110.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row8)">                             +%@@@@@@@@%@%%%%%%@@@%%@@%%%%#-                            </text>
+<text x="14" y="118.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row9)">                           :#@@@%%%%%@%%%%%@@@@@@%@%@@@%@%%#:                           </text>
+<text x="14" y="126.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row10)">                         .s@@%@@%@@%%%@%@@@@@@@@%@@@@@@@@%%##c+.                        </text>
+<text x="14" y="133.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row11)">                        =%@@@@@@@@@%%@@@@@@@%%%%@@@@@@@@@@@%%%s-                        </text>
+<text x="14" y="141.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row12)">                       :%@@@@@@@@%@%%#####s*===+cs#%@@@@@@@%%%@%=                       </text>
+<text x="14" y="149.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row13)">                      .#@@@@@@@%%#c+=----:::`::::-=c#%@@@@%%@@@@*                       </text>
+<text x="14" y="157.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row14)">                      *@@@@@@@@#*=-:::```......```:-+#%@@@@@@@@%`                       </text>
+<text x="14" y="165.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row15)">                      c@@@@@@@%c=-::``..........``::-+s%@@@@@@@c                        </text>
+<text x="14" y="172.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row16)">                       #@@@@@%*=-::::``:`.......`::::-=c#%@@@@%                         </text>
+<text x="14" y="180.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row17)">                       :%@@@%*=---:``......... ..``:---=+#%@@@+                         </text>
+<text x="14" y="188.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row18)">                        s@@@#+==+*+++=-:`....:-=+*ccss*+=+#%@@-                         </text>
+<text x="14" y="196.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row19)">                        -@@%**###ss##%#s*:``:+s###c***csc+*%%%                          </text>
+<text x="14" y="204.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row20)">                        `#@%+*c*s#s%#*+**=:`-==*+#sss#c+=++%%*-                         </text>
+<text x="14" y="211.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row21)">                        ++s%+==+*+++===++=``-=-===-=====-=+#=-:                         </text>
+<text x="14" y="219.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row22)">                        :=+#*+=-::---:----``::::`:::``:--=+s-``                         </text>
+<text x="14" y="227.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row23)">                        `-=s*==-``.`.`:--:``:--:`.....`:-=+s:``                         </text>
+<text x="14" y="235.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row24)">                         -=sc+=-``.``:=--`..`::-:`:`.``:=+c#-:.                         </text>
+<text x="14" y="243.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row25)">                         .=c#c+-::=++cs##*==+csss*+*=::-=+s#:.                          </text>
+<text x="14" y="250.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row26)">                          .:ssc=:-ssssc***+-==+**cscc-:-=*s=                            </text>
+<text x="14" y="258.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row27)">                            .cc+-`--=*+... . . .-+=:::-=+c*                             </text>
+<text x="14" y="266.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row28)">                             .**+=---=++=-::::-==:::-==+*c.                             </text>
+<text x="14" y="274.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row29)">                              .cc++==--=***++=-:::-===*ss:                              </text>
+<text x="14" y="282.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row30)">                               =s#sc*=--=ssc*-::-=*s*csc+.                              </text>
+<text x="14" y="289.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row31)">                               :*c#%%#sccs=**+c+ss%#sc*++.                              </text>
+<text x="14" y="297.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row32)">                               =++*s#%%%%%#%%##%%%#s*+===-                              </text>
+<text x="14" y="305.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row33)">                              :++==+*cs#%%%%%@%%#c*+----+-:                             </text>
+<text x="14" y="313.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row34)">                            .:--+=---=++*****+=====::::----:`.                          </text>
+<text x="14" y="321.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row35)">                        .`:-=----=-:::---=--::----:``:------===-:`.                     </text>
+<text x="14" y="328.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row36)">                    .::---===-------::::------::::``:--------==------:`.                </text>
+<text x="14" y="336.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row37)">               .`:-----=--=------:::-::::::::::::::---:::--------=--------:`.           </text>
+<text x="14" y="344.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row38)">          .`:------====--=-------:::::--:::::::::--::::::--------==------------:`.      </text>
+<text x="14" y="352.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row39)">     .`:---------==-----=---=----::::::-+--::::-::::::::----------==----:-----------`.  </text>
+<text x="14" y="360.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row40)"> .`:-----------==-----------------::=csccs*+**css*-:::::-----------==------------------`</text>
+<text x="14" y="367.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row41)">------------------------:------:--+*s%%%%%%%%###%%#c+-::::----------=----------::-------</text>
+<text x="14" y="375.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row42)">---------------------:::::------==-==+s%@%%##s#%%*--=*+=::-------:------------:::-------</text>
+<text x="14" y="383.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row43)">-------:-:-------:--::-------:---------+#%%#s#%#=-------=-:::--:::::-------:-:::::---::-</text>
+<text x="14" y="391.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row44)">-:-:-----:::----::--:----:--:--:----:----c%%s%#-----:::--::----:::::::----::-::::::-::-:</text>
+<text x="14" y="399.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row45)">-::------::----::--::--::::::-:::---:-----s%#%s-:-:::::::::::::::::::::----:--::::-::--:</text>
+<text x="14" y="406.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row46)">-:::---:-:---:::-:::::::::::::::::---:---=%%s#%c--::::::::::::::::::::::::::-:::::-:----</text>
+<text x="14" y="414.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row47)">--:-:--------:--::::::::::::::::::::----=#%%ss%@*-:::::::::::::::-::::::--::--:::-------</text>
+<text x="14" y="422.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row48)">--------=-----:::::::::::::::::::::::::-s%%%ss%%%=-:::::::::::::::::::::::--:-:::-------</text>
+<text x="14" y="430.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row49)">---=---==------:::::::::::::::::::::::-=#%%#ss#%%s-::::::::::::::::::::::-:----::-------</text>
+<text x="14" y="438.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row50)">-=--=---+-----:::::::::::::::::::::::::*#%##ss#%%%-:::::::::::::::::::::::-------=--=---</text>
+<text x="14" y="445.80" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row51)">--=-=+==+=-----:::::::::::::::::::::::-s###sss####*::::::::::::::::::::::::------====--=</text>
+<text x="14" y="453.60" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row52)">--===+**c=----::::::::::::::::::::::::-####ssss###c-:::::::::::::::::::---:-----+*==--==</text>
+<text x="14" y="461.40" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row53)">---===*csc====-::::::::::::::::::::::--#####ss#sss#-::::::::::::::::::------==++*+===-=-</text>
+<text x="14" y="469.20" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row54)">---====+c#*++==----:::::::::::::::::::=######s##ss#-:::::::::::::::::------==-=++==--=--</text>
+<text x="14" y="477.00" font-family="monospace" font-size="7.8" xml:space="preserve" fill="#c9d1d9" clip-path="url(#row55)">-----==+*c#c*+==----::::::::::::::::::=######ssss#s=:::::::::::::::-----------+*+=--=---</text>
+<text x="14" y="494" fill="#39d353" font-family="monospace" font-size="10">vikas@github:~$ <tspan>portrait --render complete</tspan></text>
+</svg>
