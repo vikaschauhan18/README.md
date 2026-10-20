@@ -59,7 +59,7 @@
       <img src="./vikas-ascii.svg" width="370" alt="Animated ASCII Portrait" />
     </td>
     <td align="center" valign="top">
-      <img src="./info-card.svg" width="490" alt="Developer Information Card" />
+      <img src="https://raw.githubusercontent.com/vikaschauhan18/README.md/main/info-card.svg" width="490" alt="Developer Information Card" />
     </td>
   </tr>
 </table>
