@@ -1,4 +1,4 @@
-``# 💫 About Me:
+# 💫 About Me:
 👨‍💻 I'm currently working on<br>- Full Stack Web Development projects<br>- Mern Stack projects<br><br>🤝 I'm looking to collaborate on<br>- Web Development projects<br><br>🌱 I'm currently learning<br>- Java DSA<br>- Spring Boot<br>- MERN Stack<br>- SQL & Database Management<br><br>💬 Ask me about<br>- Java<br>- DSA<br>- Web Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy building real-world projects and learning new technologies.
 
 
@@ -44,5 +44,24 @@
 </div>
 
 
+<!-- Animated Terminal Profile -->
+<h3 align="center">
+  <code>vikas@github ~ $ whoami</code>
+</h3>
+
+<p align="center">
+  <code>Java Developer | Full Stack Developer | AI Enthusiast</code>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="./vikas-ascii.svg" width="370" alt="Animated ASCII Portrait" />
+    </td>
+    <td align="center" valign="top">
+      <img src="./info-card.svg" width="490" alt="Developer Information Card" />
+    </td>
+  </tr>
+</table>
 
 
